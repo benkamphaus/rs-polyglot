@@ -13,4 +13,4 @@ to the spectral dimension of the data. Applying matching algorithms, filtering,
 etc. using the spectral dimension of the data while using the ability to locate
 pixels geospatially by X, Y coordinates, or to apply texture algorithms, etc.
 results in a mix of spatial analysis and spectroscopy. The union of these
-techniques is the basis of remote sensing science as practiced in geography.
+techniques is the basis of remote sensing science.
